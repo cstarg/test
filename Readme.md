@@ -11,19 +11,19 @@ git clone https://github.com/cstarg/test.git
 
 What things you need to install the software and how to install them
 
-####Install Homebrew
+#### Install Homebrew
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-####Install maven
+#### Install maven
 
 brew install maven
 
-####Install postgres
+#### Install postgres
 
 brew install postgres
 
-####Start postgres
+#### Start postgres
 
 brew services start postgres
 
